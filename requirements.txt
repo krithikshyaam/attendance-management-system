@@ -1,0 +1,2 @@
+mysql-connector-python
+reportlab>=4.0
